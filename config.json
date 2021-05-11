@@ -1,3 +1,4 @@
 {
-  "Event5XEnabled": true
+  "Event5XEnabled": false
+  "SendMessage": false
 }
